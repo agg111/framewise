@@ -3,3 +3,4 @@ opencv-python
 numpy
 gradio
 python-dotenv
+tavily-python
